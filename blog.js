@@ -38,10 +38,8 @@ htmlStr += '</div>';
 htmlStr += '</address>';
 
 document.getElementById("author").innerHTML = htmlStr;
-let blogDetail = `
-<h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl">
-  Best practices for success
-</h1>
+let blogDetail = `<h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl">
+  Best practices for success </h1>
 
 <h3>Best practices for setting up your prototype</h3>
 
